@@ -8,15 +8,13 @@ This is the code to have the provided data in .json format. This was necessary f
 This is the code to visualise the 3D network graph I developed in Python. To do it I used a library called Jgraph, which gave me problems when running it in a plain python script and because of that I ended up coding it in a Jupyter Nottebook sheet.
 
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
 ## Usage
+
+- data.json_maker.py <br />
+
+
+- 3Dgraph.ipynb <br />
+
 
 ```python
 import foobar
