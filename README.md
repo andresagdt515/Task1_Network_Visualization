@@ -11,23 +11,11 @@ This is the code to visualise the 3D network graph I developed in Python. To do 
 ## Usage
 
 - data.json_maker.py <br />
-
+In order to correctly run the file it is necessary:
+   - install pandas
+   - install json
 
 - 3Dgraph.ipynb <br />
-
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+In order to obtain the correct simulation it is necessary:
+   - to split the provided data (raan_case_study interns.xlsx) into 2 .csv files with the following names: edges.csv and nodes.csv, that store the edges and nodes corresponding data.
+   - run the code in a jupyter notebook
