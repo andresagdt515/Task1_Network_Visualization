@@ -1,6 +1,6 @@
 # Task1_Network_Visualization
 
-In this repository I uploaded the following documents:
+In this repository I uploaded the following files:
 - data.json_maker.py <br />
 This is the code that returns the provided data in .json format. This was necessary for the 2D force network graph I developed in JavaScript. This one can be visualised in my Web Application [Andres_Web_Application](https://andresagdt515.github.io/Task2_Web_Development/) that is hosted in my second repository [Task2_Web_Development](https://github.com/andresagdt515/Task2_Web_Development).
 
