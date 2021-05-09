@@ -27,5 +27,5 @@ This is the code to visualise the 3D network graph I developed in Python. To do 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required libraries.
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
