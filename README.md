@@ -24,11 +24,8 @@ This is the code to visualise the 3D network graph I developed in Python. To do 
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pandas and json libraries
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required libraries.
 
 ```bash
-pip install pandas
-```
-```bash
-pip install json
+pip install requirements.txt
 ```
