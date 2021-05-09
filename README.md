@@ -12,20 +12,13 @@ This is the code to visualise the 3D network graph I developed in Python. To do 
 
 - data.json_maker.py <br />
 
-    In order to correctly run the file it is necessary:
-    - install pandas
-    - install json
-
-- 3Dgraph.ipynb <br />
-
-    In order to obtain the correct simulation it is necessary:
-    - to split the provided data (raan_case_study interns.xlsx) into 2 .csv files with the following names: edges.csv and nodes.csv, that store the edges and nodes corresponding data.
-    - run the code in a Jupyter Notebook
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required libraries.
-
+    In order to correctly run the file install the required libraries:
+    
 ```bash
 pip install -r requirements.txt
 ```
+- 3Dgraph.ipynb <br />
+
+    In order to obtain the correct simulation it is necessary:
+    - to split the provided data (raan_case_study interns.xlsx) into 2 .csv files with the following names: edges.csv and nodes.csv, they store the edges and nodes corresponding data.
+    - run the code in a Jupyter Notebook
