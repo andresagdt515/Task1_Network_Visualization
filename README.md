@@ -2,7 +2,7 @@
 
 In this repository I uploaded the following documents:
 - data.json_maker.py <br />
-This is the code that returns the provided data in .json format. This was necessary for the 2D force network graph I developed in JavaScript. This one can be visualised in the following Web Application [Andres_Web_Application](https://andresagdt515.github.io/Task2_Web_Development/), in my second repository [Task2_Web_Development](https://github.com/andresagdt515/Task2_Web_Development).
+This is the code that returns the provided data in .json format. This was necessary for the 2D force network graph I developed in JavaScript. This one can be visualised in my Web Application [Andres_Web_Application](https://andresagdt515.github.io/Task2_Web_Development/), in my second repository [Task2_Web_Development](https://github.com/andresagdt515/Task2_Web_Development).
 
 - 3Dgraph.ipynb <br />
 This is the code to visualise the 3D network graph I developed in Python. To do it I used a library called Jgraph, which gave me problems when running it in a plain python script. Because of that I ended up coding it in a Jupyter Notebook sheet.
